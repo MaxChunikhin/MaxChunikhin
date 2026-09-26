@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Max 👋
 
-<!--
-**MaxChunikhin/MaxChunikhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cybersecurity Management graduate student at San Diego State University with a background in Management Information Systems. I'm interested in security engineering, cloud security, threat detection, and vulnerability research.
 
-Here are some ideas to get you started:
+### 🔐 What I'm Working On
+- Building hands-on experience with **SIEM and security monitoring**, including Wazuh
+- Working with **AWS cloud security** and security-focused cloud environments
+- Developing cybersecurity projects around **network security, threat detection, and secure systems**
+- Studying for the **CompTIA Security+**
+- Getting more involved in **open-source security projects and vulnerability research**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+**Security:** SIEM, Threat Detection, Vulnerability Assessment, Log Analysis, IDS/IPS  
+**Tools:** Wazuh, Splunk, Wireshark
+**Cloud & Systems:** AWS, Linux, Windows  
+**Programming:** Python, Git
+
+### 📫 Connect With Me
+- [LinkedIn](https://linkedin.com/in/maksym-chunikhin)
