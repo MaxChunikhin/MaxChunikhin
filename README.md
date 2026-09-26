@@ -1,4 +1,4 @@
-# Hey, I'm Max 👋
+# Hi, I'm Max 👋
 
 I'm an M.S. Cybersecurity Management student with a background in Management Information Systems. I'm focused on security engineering, cloud security, threat detection, and vulnerability research.
 
@@ -33,6 +33,6 @@ Analyzing publicly disclosed vulnerabilities and security architecture with a fo
 - Detection engineering and SIEM tuning
 - CompTIA Security+
 
-## 📫 Connect With Me
+## 📫
 
 - [LinkedIn](https://linkedin.com/in/maksym-chunikhin)
