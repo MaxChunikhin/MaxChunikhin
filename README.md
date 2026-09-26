@@ -33,6 +33,5 @@ Analyzing publicly disclosed vulnerabilities and security architecture with a fo
 - Detection engineering and SIEM tuning
 - CompTIA Security+
 
-## 📫
-
+##
 - [LinkedIn](https://linkedin.com/in/maksym-chunikhin)
